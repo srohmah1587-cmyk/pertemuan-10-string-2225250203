@@ -1,0 +1,28 @@
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Konfigurasi editor
+.vscode/
+.idea/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File sementara dan log
+*.tmp
+*.log
+
+# Hasil pengujian
+.coverage
+htmlcov/
+.pytest_cache/
